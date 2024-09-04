@@ -10,6 +10,9 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>         
+
+
+
 🌟 Conecte-se comigo e acompanhe minha evolução enquanto continuo a explorar e desenvolver minhas habilidades!
 
 <!--
