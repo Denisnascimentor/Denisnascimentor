@@ -7,8 +7,8 @@
 
 👨🏾‍💻 Atualmente mais focado em:
 <div display ="inline">
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img width="50" height="50" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
+  <img width="60" height="60" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000"/>
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"/>
 </div>         
 
