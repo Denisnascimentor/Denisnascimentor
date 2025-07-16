@@ -5,7 +5,7 @@
 
 🚀 Estou ansioso para crescer na área, enfrentar desafios e contribuir para projetos inovadores. Vamos juntos transformar ideias em soluções!
 
-👨🏾‍💻 Atualmente mais focado em:
+👨🏾‍💻 Ferramentas e Tecnologia:
 <div display ="inline">
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000"/>
