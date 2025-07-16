@@ -12,6 +12,8 @@
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000"/>
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000"/>
+  <img width="60" height="60" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+  <img width="60" height="60" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
 </div>         
 
 
