@@ -1,11 +1,11 @@
 ## Denis aqui :)
-👋 Atualmente sou **graduando em Tecnologia em Sistema de Computação - UESPI**. Estou começando minha jornada no mundo da programação e estou empolgado para explorar e aprender mais sobre essa área fascinante.
+Atualmente sou **graduando em Tecnologia em Sistema de Computação - UESPI**. Estou começando minha jornada no mundo da programação e estou empolgado para explorar e aprender mais sobre essa área fascinante.
 
-📚 Acredito que a colaboração e o aprendizado contínuo são essenciais para o crescimento, por isso estou sempre aberto a sugestões e feedbacks. Se você tem dicas, ideias ou apenas deseja trocar experiências, sinta-se à vontade para entrar em contato!
+Acredito que a colaboração e o aprendizado contínuo são essenciais para o crescimento, por isso estou sempre aberto a sugestões e feedbacks. Se você tem dicas, ideias ou apenas deseja trocar experiências, sinta-se à vontade para entrar em contato!
 
-🚀 Estou ansioso para crescer na área, enfrentar desafios e contribuir para projetos inovadores. Vamos juntos transformar ideias em soluções!
+Estou ansioso para crescer na área, enfrentar desafios e contribuir para projetos inovadores. Vamos juntos transformar ideias em soluções!
 
-👨🏾‍💻 Ferramentas e Tecnologia:
+Ferramentas e Tecnologia:
 <div display ="inline">
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />
   <img width="60" height="60" src="https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000"/>
