@@ -18,7 +18,7 @@ Ferramentas e Tecnologia:
 
 
 
-🌟 Conecte-se comigo e acompanhe minha evolução enquanto continuo a explorar e desenvolver minhas habilidades!
+Conecte-se comigo e acompanhe minha evolução enquanto continuo a explorar e desenvolver minhas habilidades!
 
 <!--
 **Denisnascimentor/Denisnascimentor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
